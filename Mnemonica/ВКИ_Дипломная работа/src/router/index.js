@@ -4,16 +4,20 @@ import VueRouter from 'vue-router'
 
 import AppHeader from '../components/AppHeader'
 
-import Topic2 from '../components/Topic2/Name/Topic2'
 import Face from '../components/Topic2/Face'
+import Level from '../components/Topic2/Level'
+import TopicVar from '../components/Topic2/TopicVar'
 import Training from '../components/Topic2/Training'
+
+
+import Topic2 from '../components/Topic2/Name/Topic2'
 import TopicImg from '../components/Topic2/Name/TopicImg'
+
 import NameP from '../components/Topic2/NamePatrn/NameP'
 import ExNP from '../components/Topic2/NamePatrn/ExNP'
+
 import FullName from '../components/Topic2/FullName/FullName'
 import ExFullN from '../components/Topic2/FullName/ExFullN'
-import TopicVar from '../components/Topic2/TopicVar'
-import Level from '../components/Topic2/Level'
 
 import Topic1 from '../components/Topic1/Topic1'
 import TopicWord from '../components/Topic1/TopicWord'
